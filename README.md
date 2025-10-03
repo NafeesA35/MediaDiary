@@ -1,3 +1,4 @@
 # MediaDiary
 
-Files to be uploaded as I am immigrating an old repo (I pushed my API key *cough*) to display the project here
+
+Guides on how to ontain the API will be uploaded shortly.
