@@ -1,0 +1,143 @@
+{
+    "names": [
+        "Blue lock",
+        "Attack on titan",
+        "Attack on titan",
+        "Solo levelling",
+        "Koukaku Kidoutai",
+        "Yahari Ore no Seishun Love Comedy wa Machigatteiru.",
+        "Tensei shitara Slime Datta Ken",
+        "Mushoku Tensei: Isekai Ittara Honki Dasu",
+        "Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2",
+        "Fate/Zero",
+        "Fate/stay night Movie: Unlimited Blade Works",
+        "Tate no Yuusha no Nariagari",
+        "Perfect Blue",
+        "Shingeki no Kyojin"
+    ],
+    "scores": [
+        8.18,
+        8.56,
+        8.56,
+        8.26,
+        8.27,
+        8,
+        8.14,
+        8.35,
+        8.41,
+        8.27,
+        7.39,
+        7.92,
+        8.55,
+        8.56
+    ],
+    "genres": [
+        "Sports",
+        "Action, Award Winning, Drama, Suspense",
+        "Action, Award Winning, Drama, Suspense",
+        "Action, Adventure, Fantasy",
+        [
+            "Action",
+            "Award Winning",
+            "Mystery",
+            "Sci-Fi",
+            "Suspense"
+        ],
+        [
+            "Comedy",
+            "Romance"
+        ],
+        [
+            "Action",
+            "Comedy",
+            "Fantasy"
+        ],
+        [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Ecchi"
+        ],
+        [
+            "Adventure",
+            "Drama",
+            "Fantasy",
+            "Ecchi"
+        ],
+        [
+            "Action",
+            "Fantasy"
+        ],
+        [
+            "Action",
+            "Fantasy"
+        ],
+        [
+            "Action",
+            "Adventure",
+            "Drama",
+            "Fantasy"
+        ],
+        [
+            "Avant Garde",
+            "Award Winning",
+            "Drama",
+            "Horror",
+            "Suspense"
+        ],
+        [
+            "Action",
+            "Award Winning",
+            "Drama",
+            "Suspense"
+        ]
+    ],
+    "personal_scores": [
+        6,
+        8,
+        2,
+        8,
+        "9",
+        "10",
+        "8",
+        "8",
+        "8",
+        "8",
+        "9",
+        "4",
+        "8",
+        "8"
+    ],
+    "personal_comments": [
+        "Good",
+        "Its bad",
+        "f",
+        "mid",
+        "Good",
+        "Added via GUI",
+        "Added via GUI",
+        "Added via GUI",
+        "N/A",
+        "N/A",
+        null,
+        2019,
+        null,
+        2013
+    ],
+    "image_url": [
+        "https://cdn.myanimelist.net/images/anime/1258/126929.jpg",
+        "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+        "https://cdn.myanimelist.net/images/anime/10/47347.jpg",
+        "https://cdn.myanimelist.net/images/anime/1801/142390.jpg",
+        "https://cdn.myanimelist.net/images/anime/10/82594.jpg",
+        "https://cdn.myanimelist.net/images/anime/1786/120117.jpg",
+        "https://cdn.myanimelist.net/images/anime/1069/123309.jpg",
+        "https://cdn.myanimelist.net/images/anime/1530/117776.jpg",
+        "https://cdn.myanimelist.net/images/anime/1876/141251.jpg",
+        "https://cdn.myanimelist.net/images/anime/1887/117644.jpg",
+        "https://cdn.myanimelist.net/images/anime/1889/95111.jpg",
+        "https://cdn.myanimelist.net/images/anime/1490/101365.jpg",
+        "https://cdn.myanimelist.net/images/anime/1254/134212.jpg",
+        "https://cdn.myanimelist.net/images/anime/10/47347.jpg"
+    ]
+}

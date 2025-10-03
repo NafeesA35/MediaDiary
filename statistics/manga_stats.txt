@@ -1,0 +1,97 @@
+{
+    "names": [
+        "One Piece",
+        "Attack on Titan",
+        "Vagabond",
+        "Kaoru Hana wa Rin to Saku",
+        "Vagabond",
+        "Vagabond",
+        "JoJo no Kimyou na Bouken Part 1: Phantom Blood",
+        "Shingeki no Kyojin"
+    ],
+    "scores": [
+        9.0,
+        8.7,
+        9.27,
+        8.84,
+        9.27,
+        9.27,
+        7.29,
+        8.55
+    ],
+    "genres": [
+        [
+            "Action",
+            "Adventure",
+            "Comedy",
+            "Drama",
+            "Shounen"
+        ],
+        [
+            "Action",
+            "Drama",
+            "Fantasy",
+            "Shounen"
+        ],
+        [
+            "Action",
+            "Adventure",
+            "Award Winning"
+        ],
+        [
+            "Drama",
+            "Romance"
+        ],
+        [
+            "Action",
+            "Adventure",
+            "Award Winning"
+        ],
+        [
+            "Action",
+            "Adventure",
+            "Award Winning"
+        ],
+        [
+            "Action",
+            "Adventure",
+            "Horror"
+        ],
+        [
+            "Action",
+            "Award Winning",
+            "Drama",
+            "Suspense"
+        ]
+    ],
+    "personal_scores": [
+        "10",
+        "9",
+        "8",
+        "8",
+        "9",
+        "9",
+        "9",
+        "10"
+    ],
+    "personal_comments": [
+        "Amazing adventure manga!",
+        "Great story and art",
+        "N/A",
+        "N/A",
+        "1998-09-03T00:00:00+00:00",
+        "1998",
+        "1986",
+        "2009"
+    ],
+    "image_url": [
+        "https://cdn.myanimelist.net/images/manga/3/55539.jpg",
+        "https://cdn.myanimelist.net/images/manga/2/37846.jpg",
+        "https://cdn.myanimelist.net/images/manga/1/259070.jpg",
+        "https://cdn.myanimelist.net/images/manga/5/256607.jpg",
+        "https://cdn.myanimelist.net/images/manga/1/259070.jpg",
+        "https://cdn.myanimelist.net/images/manga/1/259070.jpg",
+        "https://cdn.myanimelist.net/images/manga/2/269907.jpg",
+        "https://cdn.myanimelist.net/images/manga/2/37846.jpg"
+    ]
+}

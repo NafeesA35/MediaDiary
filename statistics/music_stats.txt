@@ -1,0 +1,182 @@
+{
+    "name": [
+        "Die Lit",
+        "Hurry Up Tomorrow",
+        "Imaginal Disk",
+        "My Beautiful Dark Twisted Fantasy",
+        "Graduation",
+        "Eternal Atake",
+        "In Abundance",
+        "The College Dropout",
+        "Evangelic Girl Is a Gun",
+        "Evangelic Girl Is a Gun",
+        "Evangelic Girl Is a Gun",
+        "Evangelic Girl Is a Gun",
+        "Evangelic Girl Is a Gun",
+        "Monster"
+    ],
+    "artist": [
+        "Playboi Carti",
+        "The Weeknd",
+        "Magdalena Bay",
+        "Kanye West",
+        "Kanye West",
+        "Lil Uzi Vert",
+        "Playboi Carti",
+        "Kanye West",
+        "yeule",
+        "yeule",
+        "yeule",
+        "yeule",
+        "yeule",
+        "Future"
+    ],
+    "genres": [
+        [
+            "trap",
+            "rap",
+            "playboi carti",
+            "cloud rap",
+            "hip-hop"
+        ],
+        [
+            "2025",
+            "synthwave",
+            "synthpop",
+            "alternative rnb",
+            "pop"
+        ],
+        [
+            "synthpop",
+            "2024",
+            "neo-psychedelia",
+            "pop",
+            "indietronica"
+        ],
+        [
+            "hip hop",
+            "hip-hop",
+            "rap",
+            "kanye west",
+            "2010"
+        ],
+        [
+            "hip-hop",
+            "rap",
+            "kanye west",
+            "hip hop",
+            "rnb"
+        ],
+        [
+            "lil uzi vert",
+            "trap",
+            "rap",
+            "cloud rap",
+            "hip-hop"
+        ],
+        [
+            "cloud rap",
+            "trap",
+            "plugg",
+            "rap",
+            "hip-hop"
+        ],
+        [
+            "hip-hop",
+            "rap",
+            "kanye west",
+            "hip hop",
+            "skit"
+        ],
+        [
+            "alternative rock",
+            "2025",
+            "electronic",
+            "indie rock",
+            "trip hop"
+        ],
+        [
+            "alternative rock",
+            "2025",
+            "electronic",
+            "indie rock",
+            "trip hop"
+        ],
+        [
+            "alternative rock",
+            "2025",
+            "electronic",
+            "indie rock",
+            "trip hop"
+        ],
+        [
+            "alternative rock",
+            "2025",
+            "electronic",
+            "indie rock",
+            "trip hop"
+        ],
+        [
+            "alternative rock",
+            "2025",
+            "electronic",
+            "indie rock",
+            "trip hop"
+        ],
+        [
+            "trap",
+            "rap",
+            "cloud rap",
+            "southern hip hop",
+            "evil"
+        ]
+    ],
+    "image_url": [
+        "https://lastfm.freetls.fastly.net/i/u/300x300/d1761236c12379d3e1dfce76023231f6.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/706f247829fbe0ee14febb195c6200c4.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/40e357a8c9962876e806cc5328a383e0.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/8a071c4b073625018de5f0ac58727511.png",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/8ddd1959a2bef460a5149b3e0cf5e18a.png",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/544aa5fe7908d216e17bf614c7e1ab27.gif",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/3b3577e1f41a729bf50bba7dc1942350.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/61d5e94c9aa712b29e283325bc5ae87f.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/ae900471fb0d268c196847c052fb5d4e.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/ae900471fb0d268c196847c052fb5d4e.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/ae900471fb0d268c196847c052fb5d4e.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/ae900471fb0d268c196847c052fb5d4e.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/ae900471fb0d268c196847c052fb5d4e.jpg",
+        "https://lastfm.freetls.fastly.net/i/u/300x300/0de1f01c468053ce407986b1f2dccc14.png"
+    ],
+    "personal_score": [
+        "8",
+        "9",
+        "9",
+        "8",
+        "9",
+        "8",
+        "8",
+        "9",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8",
+        "8"
+    ],
+    "playcount": [
+        "100000",
+        "46,961,202",
+    "35,170,537",
+    "147,467,265",
+        "167,079,241",
+        "41298961",
+        "5815148",
+        "103799658",
+        "2397489",
+        "2397489",
+        "2397489",
+        "2397489",
+        "2397489",
+        "18937890"
+    ]
+}

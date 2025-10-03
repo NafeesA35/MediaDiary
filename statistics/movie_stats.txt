@@ -1,0 +1,23 @@
+{
+    "title": [
+        "Blade Runner 2049"
+    ],
+    "personal_score": [
+        "9"
+    ],
+    "score": [
+        7.6
+    ],
+    "genres": [
+        [
+            "Science Fiction",
+            "Drama"
+        ]
+    ],
+    "release_date": [
+        "2017-10-04"
+    ],
+    "image_url": [
+        "https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"
+    ]
+}

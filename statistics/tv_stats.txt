@@ -1,0 +1,58 @@
+{
+    "title": [
+        "Mr. Robot",
+        "Parasite",
+        "Mr.Robot",
+        "Mr. Robot_dec0d3d.doc",
+        "Mr. Robot"
+    ],
+    "personal_score": [
+        "8",
+        "9",
+        "9",
+        "9",
+        "9"
+    ],
+    "score": [
+        8.252,
+        6.8,
+        6.7,
+        0.0,
+        8.3
+    ],
+    "genres": [
+        [
+            "Crime",
+            "Drama"
+        ],
+        [
+            "Horror"
+        ],
+        [
+            "Animation",
+            "Action",
+            "Science Fiction"
+        ],
+        [
+            "Documentary"
+        ],
+        [
+            "Crime",
+            "Drama"
+        ]
+    ],
+    "release_date": [
+        "2015-06-24",
+        "2015-08-13",
+        "2025-04-04",
+        "2016-06-20",
+        "2015-06-24"
+    ],
+    "image_url": [
+        "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg",
+        "https://image.tmdb.org/t/p/w500/pAjExpwZRibYxkRadqd3WdpsLB.jpg",
+        "https://image.tmdb.org/t/p/w500/8bhsUCZBnBG0FoVnykSJExKBSKp.jpg",
+        "https://image.tmdb.org/t/p/w500/z8u18GruegIcHIc1bjyoBAagCz8.jpg",
+        "https://image.tmdb.org/t/p/w500/kv1nRqgebSsREnd7vdC2pSGjpLo.jpg"
+    ]
+}
